@@ -573,7 +573,7 @@
 571,Nissan,Qashqai,13190.0,116.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,136634.0,2019,Manual,2993.0,6.9,Blanco,Blanco,Tracción a las cuatro ruedas,5.0,8.0,6.0,2134.0,Diésel,7,Valencia,46950,Valencia/València
 572,Peugeot,5008,21790.0,181.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,104165.0,2018,Automático,1461.0,4.4,Azul,Azul,Tracción delantera,7.0,6.0,4.0,1262.0,Diésel,6,Madrid,28021,Madrid
 573,BMW,X1,42900.0,150.0,Prof.,SUV/4x4/Pickup,Demostración,5,España,36,4450.0,2023,Automático,1991.0,2.5,Gris,Sapcesilver,Tracción a las cuatro ruedas,5.0,7.0,4.0,2040.0,Diésel,7,Cardedeu,8440,Barcelona
-574,Volkswagen,Touareg,7700.0,220.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,185000.0,2005,Automático,1560.0,4.5,Plateado,ACEPTO VEHÍCULO A CAMBIO,Tracción delantera,5.0,5.0,4.0,1203.0,Gasolina,6,Barcelona,8030,Barcelona
+574,Volkswagen,Touareg,7700.0,220.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,185000.0,2005,Automático,1560.0,4.5,Plateado,Plateado,Tracción delantera,5.0,5.0,4.0,1203.0,Gasolina,6,Barcelona,8030,Barcelona
 575,Toyota,RAV 4,14000.0,150.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,100200.0,2009,Manual,999.0,5.5,Negro,Negro,Tracción delantera,5.0,6.0,3.0,1280.0,Diésel,3,Villanueva de córdoba,14440,Córdoba
 576,Mercedes-Benz,G 500,140000.0,421.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,59000.0,2020,Automático,1399.0,10.2,Negro,Negro,Tracción delantera,5.0,5.0,4.0,1510.0,Gasolina,3,Madrid,28046,Madrid
 577,Citroen,C4,4000.0,109.0,Prof.,Coche pequeño,Ocasión,5,España,12,189000.0,2008,Manual,1798.0,6.1,Negro,Negro,Tracción trasera,2.0,7.0,4.0,1103.0,Diésel,12,Almazora,12500,Castellón/Castelló
@@ -4796,7 +4796,7 @@
 4807,Jaguar,F-Pace,27999.0,179.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,89000.0,2018,Automático,3283.0,5.9,Blanco,Fuji White - solida,Tracción a las cuatro ruedas,5.0,8.0,6.0,1920.0,Diésel,8,Linares,23700,Jaén
 4808,Jaguar,E-Pace,287001.0,150.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,77800.0,2020,Automático,1998.0,5.1,Burdeos,Burdeos,Tracción delantera,5.0,6.0,4.0,1320.0,Diésel,9,El vergel,3770,Alicante/Alacant
 4809,Jaguar,E-Pace,33790.0,163.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,70535.0,2021,Automático,1998.0,5.6,Blanco,Blanco,Tracción delantera,5.0,6.0,4.0,1518.0,Diésel,4,Madrid,28021,Madrid
-4810,Jaguar,F-Pace,28900.0,179.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,135667.0,2018,Automático,2191.0,4.4,.,.,Tracción delantera,5.0,6.0,4.0,1609.0,Diésel,2,Peligros,18210,Granada
+4810,Jaguar,F-Pace,28900.0,179.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,135667.0,2018,Automático,2191.0,4.4,Blanco,Blanco,Tracción delantera,5.0,6.0,4.0,1609.0,Diésel,2,Peligros,18210,Granada
 4811,Jaguar,E-Pace,20775.0,150.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,112000.0,2018,Manual,1998.0,5.8,Blanco,Blanco,Tracción delantera,5.0,6.0,4.0,1254.0,Diésel,9,Sevilla,41001,Sevilla
 4812,Jaguar,I-Pace,47590.0,400.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,14821.0,2018,Automático,2488.0,5.9,Rojo,Rojo,Tracción a las cuatro ruedas,5.0,8.0,4.0,1920.0,Eléctrico,10,Madrid,28021,Madrid
 4813,Jaguar,XK8,15000.0,290.0,Prof.,Cabrio,Ocasión,2,España,12,197000.0,1997,Automático,1300.0,5.6,Verde,British Racing Green,Tracción delantera,5.0,6.0,4.0,1393.0,Gasolina,10,Cox,3370,Alicante/Alacant
@@ -6427,7 +6427,7 @@
 6441,Maserati,Grecale,145000.0,530.0,Prof.,SUV/4x4/Pickup,KM0,5,España,24,15.0,2023,Automático,1991.0,2.2,Azul,Azul,Tracción a las cuatro ruedas,5.0,9.0,4.0,2030.0,Gasolina,9,Alguazas,30560,Murcia
 6442,Maserati,Ghibli,37990.0,275.0,Prof.,Coupé,Ocasión,4,España,12,194956.0,2018,Automático,1995.0,4.3,Gris,Gris,Tracción delantera,5.0,6.0,4.0,1510.0,Diésel,6,Torrejón de ardoz,28850,Madrid
 6443,Maserati,Levante,53950.0,275.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,48000.0,2017,Automático,2000.0,4.5,Blanco,Blanco,Tracción delantera,4.0,6.0,4.0,1590.0,Diésel,6,Las rozas,28231,Madrid
-6444,Maserati,Levante,59900.0,349.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,69000.0,2018,Automático,1968.0,4.4,Negro,GRAND SPORT ** Q4 350CV,Tracción delantera,5.0,6.0,4.0,1500.0,Gasolina,5,San sebastian de los reyes,28703,Madrid
+6444,Maserati,Levante,59900.0,349.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,69000.0,2018,Automático,1968.0,4.4,Negro,Negro,Tracción delantera,5.0,6.0,4.0,1500.0,Gasolina,5,San sebastian de los reyes,28703,Madrid
 6445,Maserati,Ghibli,33900.0,275.0,Prof.,Sedán,Ocasión,4,España,12,103914.0,2017,Automático,1968.0,4.7,Negro,Negro,Tracción delantera,5.0,7.0,4.0,1655.0,Diésel,6,Fornells de la selva,17458,Girona
 6446,Maserati,GranTurismo,117000.0,460.0,Prof.,Coupé,Ocasión,2,España,12,11270.0,2020,Automático,2987.0,6.1,Morado,Morado,Tracción trasera,4.0,7.0,6.0,1815.0,Gasolina,1,Madrid,28002,Madrid
 6447,Maserati,Levante,87000.0,430.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,57000.0,2019,Automático,1968.0,5.5,Negro,Negro,Tracción a las cuatro ruedas,5.0,7.0,4.0,1770.0,Gasolina,3,Girona,17007,Girona
@@ -12509,7 +12509,7 @@
 12531,Ford,Mondeo,218181.0,193.0,Prof.,Familiar,Ocasión,5,España,12,81113.0,2020,Automático,1482.0,4.3,Azul,Azul,Tracción delantera,5.0,6.0,4.0,1400.0,Diésel,6,Salamanca,37001,Salamanca
 12532,Ford,Kuga,21989.0,190.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,112251.0,2020,Automático,1197.0,5.9,Rojo,Rojo,Tracción delantera,5.0,5.0,4.0,1080.0,Diésel,7,Albacete,2006,Albacete
 12533,Ford,Kuga,19990.0,150.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,27466.0,2022,Manual,998.0,5.7,Blanco,Blanco,Tracción delantera,5.0,6.0,3.0,1347.0,Gasolina,2,Madrid,28021,Madrid
-12534,Ford,S-Max,192001.0,150.0,Prof.,Monovolumen,Ocasión,5,España,12,77000.0,2020,Manual,5204.0,12.5,Blanco,7 PLAZAS,Tracción trasera,2.0,7.0,10.0,1339.0,Diésel,1,San sebastian de los reyes,28703,Madrid
+12534,Ford,S-Max,192001.0,150.0,Prof.,Monovolumen,Ocasión,5,España,12,77000.0,2020,Manual,5204.0,12.5,Blanco,Blanco,Tracción trasera,2.0,7.0,10.0,1339.0,Diésel,1,San sebastian de los reyes,28703,Madrid
 12535,Ford,Kuga,8500.0,140.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,236000.0,2012,Manual,998.0,5.9,Negro,Negro,Tracción delantera,5.0,6.0,3.0,1150.0,Diésel,6,Riells i viabrea,17404,Girona
 12536,Ford,Focus,8199.0,114.0,Prof.,Coche pequeño,Ocasión,5,España,12,121306.0,2014,Manual,3996.0,12.7,Blanco,Blanco,Tracción a las cuatro ruedas,5.0,8.0,8.0,2275.0,Diésel,8,Zaragoza,50018,Zaragoza
 12537,Ford,Focus,164001.0,125.0,Prof.,Coche pequeño,Ocasión,5,España,12,45000.0,2021,Manual,3996.0,4.3,Gris,Gris,Tracción delantera,5.0,6.0,3.0,1347.0,Gasolina,1,Huercal de almeria,4230,Almería
