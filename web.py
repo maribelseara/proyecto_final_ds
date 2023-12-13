@@ -38,7 +38,7 @@ if st.button('¿A qué precio lo anuncio?'):
     # Creamos un DataFrame con los datos ingresados por el usuario
     input_data = pd.DataFrame([[marca, modelo, potencia, tipo_vendedor, categoria, tipo_vehiculo, puertas, 'España', garantia, kilometraje, year, tipo_cambio, capacidad, consumo, color_ext, color_ori,
                                 traccion, plazas, marchas, cilindros, peso, tipo_combustible, mes, ciudad, cp, provincia]],
-                               columns=df.columns)
+                               columns=df.drop('Precio', axis=1).columns)
 
     predict = model.predict(input_data)[0]
     st.text=f"Te recomendamos anunciarlo a {predict} euros"
