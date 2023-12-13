@@ -2462,7 +2462,7 @@
 2466,Chevrolet,Corvette,120900.0,360.0,Prof.,Coupé,Ocasión,2,España,12,28900.0,2020,Automático,1499.0,4.1,Rojo,Victory Red (Sólido),Tracción delantera,5.0,8.0,4.0,1535.0,Gasolina,1,Pinto,28320,Madrid
 2467,Chevrolet,Cruze,4650.0,150.0,Prof.,Coche pequeño,Ocasión,4,España,12,251142.0,2009,Automático,2143.0,5.5,Gris-negro,Gris-negro,Tracción a las cuatro ruedas,5.0,9.0,4.0,1845.0,Diésel,12,Alicante,3009,Alicante/Alacant
 2468,Chevrolet,Corvette,83990.0,466.0,Prof.,Cabrio,Ocasión,2,España,12,38900.0,2014,Automático,1950.0,5.2,Blanco,Blanco,Tracción a las cuatro ruedas,5.0,9.0,4.0,1835.0,Gasolina,9,Erandio,48950,Bizkaia
-2469,Chevrolet,Captiva,5999.0,150.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,250000.0,2006,Manual,1498.0,6.6,Gris,4X4,Tracción delantera,5.0,5.0,4.0,1469.0,Diésel,11,Pinto,28320,Madrid
+2469,Chevrolet,Captiva,5999.0,150.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,250000.0,2006,Manual,1498.0,6.6,Gris,Gris,Tracción delantera,5.0,5.0,4.0,1469.0,Diésel,11,Pinto,28320,Madrid
 2470,Chevrolet,Aveo,4450.0,84.0,Prof.,Coche pequeño,Ocasión,5,España,12,93000.0,2009,Manual,999.0,7.2,Rojo,Rojo,Tracción delantera,5.0,6.0,3.0,1535.0,Gasolina,12,Majadahonda,28220,Madrid
 2471,Chevrolet,Epica,7500.0,150.0,Prof.,Sedán,Ocasión,4,España,12,147000.0,2010,Automático,2835.0,11.5,Gris,Gris,Tracción a las cuatro ruedas,7.0,5.0,4.0,2040.0,Diésel,4,Torrevieja,3183,Alicante/Alacant
 2472,Chevrolet,Corvette,94900.0,466.0,Prof.,Cabrio,Clásica,3,España,12,51484.0,1957,Manual,2925.0,16.6,Rojo,Venetian Red,Tracción a las cuatro ruedas,5.0,9.0,6.0,2060.0,Gasolina,4,Marbella,29660,Málaga
@@ -14598,7 +14598,7 @@
 14623,Dodge,RAM,545001.0,239.0,Prof.,SUV/4x4/Pickup,Ocasión,4,España,12,20000.0,2014,Automático,1300.0,6.7,Negro,Negro,Tracción delantera,5.0,6.0,4.0,1430.0,Diésel,10,Terrassa,8221,Barcelona
 14624,Dodge,RAM,699001.0,394.0,Prof.,SUV/4x4/Pickup,Ocasión,4,España,12,10000.0,2021,Automático,1332.0,6.2,Negro,Negro,Tracción delantera,5.0,6.0,4.0,1505.0,Gasolina,1,Terrassa,8221,Barcelona
 14625,Dodge,Challenger,39900.0,360.0,Prof.,Coupé,Ocasión,2,España,12,300.0,2014,Automático,1999.0,5.3,Negro,Negro,Tracción a las cuatro ruedas,5.0,8.0,4.0,1775.0,Gasolina,10,Terrassa,8221,Barcelona
-14626,Dodge,Challenger,81000.0,707.0,Particular,Coupé,Ocasión,2,España,6,15050.0,2016,Automático,1999.0,6.5,Blanco,Blanco,Tracción a las cuatro ruedas,5.0,9.0,4.0,1768.0,Super 95,1,Barcelona,8019,Barcelona
+14626,Dodge,Challenger,81000.0,707.0,Particular,Coupé,Ocasión,2,España,6,15050.0,2016,Automático,1999.0,6.5,Blanco,Blanco,Tracción a las cuatro ruedas,5.0,9.0,4.0,1768.0,Gasolina,1,Barcelona,8019,Barcelona
 14627,Dodge,Caliber,8999.0,140.0,Prof.,Coche pequeño,Ocasión,5,España,12,126000.0,2007,Manual,1999.0,5.7,Negro,Negro,Tracción a las cuatro ruedas,5.0,8.0,4.0,1845.0,Diésel,2,Elche,3203,Alicante/Alacant
 14628,Volkswagen,Polo,7900.0,90.0,Prof.,Coche pequeño,Ocasión,3,España,12,65447.0,2010,Automático,1400.0,6.6,Blanco,BLANCO,Tracción delantera,4.0,9.0,4.0,1035.0,Diésel,7,Villaviciosa de odón,28670,Madrid
 14629,BMW,i7,104000.0,455.0,Prof.,Sedán,KM0,4,España,36,0.0,2023,Automático,4999.0,12.5,Negro,Negro,Tracción a las cuatro ruedas,5.0,8.0,8.0,2678.0,Eléctrico,11,Motril,18600,Granada
