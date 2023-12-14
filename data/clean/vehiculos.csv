@@ -3107,7 +3107,7 @@
 3115,Dacia,Dokker,6990.0,90.0,Prof.,Monovolumen,Ocasión,4,España,12,213485.0,2015,Manual,1597.0,4.4,Blanco,Blanco,Tracción delantera,5.0,6.0,4.0,1545.0,Diésel,3,Humanes de madrid,28970,Madrid
 3116,Dacia,Duster,17900.0,116.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,38000.0,2019,Manual,1197.0,6.4,GRIS,GRIS,Tracción a las cuatro ruedas,5.0,6.0,4.0,1317.0,Diésel,5,Leon,24005,León
 3117,Dacia,Spring,21500.0,45.0,Prof.,SUV/4x4/Pickup,KM0,5,España,24,179.0,2023,Automático,1999.0,5.5,Blanco,Blanco,Tracción a las cuatro ruedas,5.0,8.0,4.0,1615.0,Eléctrico,2,Sestao,48910,Bizkaia
-3118,Dacia,Sandero,14600.0,91.0,-,Coche pequeño,KM0,5,España,36,60.0,2023,Manual,1685.0,4.8,Blanco,Blanco,Tracción delantera,5.0,7.0,4.0,1524.0,Gasolina,6,Molins de rei,8750,Barcelona
+3118,Dacia,Sandero,14600.0,91.0,Prof.,Coche pequeño,KM0,5,España,36,60.0,2023,Manual,1685.0,4.8,Blanco,Blanco,Tracción delantera,5.0,7.0,4.0,1524.0,Gasolina,6,Molins de rei,8750,Barcelona
 3119,Dacia,Duster,16450.0,150.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,46791.0,2020,Manual,1461.0,3.5,Blanco,Blanco,Tracción delantera,5.0,5.0,4.0,1090.0,Gasolina,7,Madrid,28045,Madrid
 3120,Dacia,Sandero,164991.0,101.0,Prof.,Coche pequeño,KM0,5,España,36,4.0,2023,Manual,998.0,4.4,Gris,Gris,Tracción delantera,5.0,5.0,3.0,1524.0,Gas licuado (GLP),8,Malaga,29006,Málaga
 3121,Dacia,Sandero,14500.0,91.0,Prof.,Coche pequeño,KM0,5,España,36,1.0,2023,Manual,1600.0,6.7,Blanco,Blanco,Tracción delantera,5.0,6.0,4.0,1538.0,Gasolina,2,Olias del rey,45280,Toledo
@@ -7099,7 +7099,7 @@
 7114,Mitsubishi,Montero,8500.0,121.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,138500.0,2000,Manual,1997.0,5.7,Azul,Azul,Tracción delantera,5.0,6.0,4.0,1688.0,Diésel,8,Llano de brujas,30161,Murcia
 7115,Mitsubishi,Montero,23650.0,190.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,66400.0,2017,Automático,1499.0,5.7,Blanco,Blanco,Tracción a las cuatro ruedas,5.0,6.0,3.0,1715.0,Diésel,6,Alpedrete,28430,Madrid
 7116,Mitsubishi,ASX,12000.0,117.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,91280.0,2016,Manual,1498.0,5.6,Rojo,Rojo,Tracción delantera,5.0,6.0,3.0,1493.0,Gasolina,11,Calella,8370,Barcelona
-7117,Mitsubishi,Montero,15500.0,200.0,-,SUV/4x4/Pickup,Ocasión,5,España,6,250000.0,2010,Manual,1499.0,4.6,Gris,Gris,Tracción delantera,5.0,5.0,4.0,1643.0,Diésel,5,Torredelcampo,23640,Jaén
+7117,Mitsubishi,Montero,15500.0,200.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,250000.0,2010,Manual,1499.0,4.6,Gris,Gris,Tracción delantera,5.0,5.0,4.0,1643.0,Diésel,5,Torredelcampo,23640,Jaén
 7118,Mitsubishi,Eclipse Cross,290001.0,188.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,18194.0,2022,Automático,1499.0,5.3,Rojo,Rojo,Tracción delantera,4.0,7.0,3.0,1265.0,Eléctrico,1,Leganes,28914,Madrid
 7119,Mitsubishi,Montero,18999.0,160.0,Prof.,SUV/4x4/Pickup,Ocasión,3,España,12,138000.0,2007,Manual,1198.0,4.6,Negro,Negro,Tracción delantera,4.0,6.0,3.0,1090.0,Diésel,1,Sunbilla,31791,Navarra
 7120,Mitsubishi,ASX,25390.0,140.0,Prof.,SUV/4x4/Pickup,KM0,5,España,60,6.0,2023,Manual,2500.0,5.6,Azul,AZUL ROYAL TECHO NEGRO,Tracción delantera,5.0,8.0,4.0,1773.0,Gasolina,4,Guadalajara,19004,Guadalajara
@@ -8406,7 +8406,7 @@
 8424,Renault,Clio,11156.0,90.0,Prof.,Coche pequeño,Ocasión,5,España,12,53517.0,2019,Manual,999.0,5.1,Azul,Azul,Tracción delantera,5.0,6.0,3.0,1231.0,Diésel,4,Alicante,3016,Alicante/Alacant
 8425,Renault,Clio,10999.0,75.0,Prof.,Coche pequeño,Ocasión,5,España,12,108000.0,2018,Manual,1498.0,6.2,Rojo,Rojo,Tracción delantera,5.0,7.0,4.0,1291.0,Diésel,2,Madrid,28028,Madrid
 8426,Renault,Scenic,15455.0,110.0,Prof.,Monovolumen,Ocasión,5,España,12,73238.0,2019,Manual,1968.0,4.5,Plateado,Plata,Tracción a las cuatro ruedas,5.0,7.0,4.0,1715.0,Diésel,1,Leganés,28914,Madrid
-8427,Renault,Megane,23750.0,116.0,-,Coche pequeño,Ocasión,5,España,24,13000.0,2021,Automático,1332.0,5.5,Blanco,Blanco,Tracción delantera,5.0,7.0,4.0,1205.0,Diésel,9,Molins de rei,8750,Barcelona
+8427,Renault,Megane,23750.0,116.0,Prof.,Coche pequeño,Ocasión,5,España,24,13000.0,2021,Automático,1332.0,5.5,Blanco,Blanco,Tracción delantera,5.0,7.0,4.0,1205.0,Diésel,9,Molins de rei,8750,Barcelona
 8428,Renault,Clio,14100.0,91.0,Prof.,Coche pequeño,Ocasión,5,España,20,47990.0,2022,Manual,1497.0,6.9,Azul,Azul,Tracción delantera,5.0,6.0,4.0,1350.0,Gasolina,6,Pontevedra,36156,Pontevedra
 8429,Renault,Talisman,149801.0,110.0,Prof.,Sedán,Ocasión,4,España,12,104000.0,2017,Manual,3902.0,11.4,Gris,Gris claro,Tracción trasera,2.0,7.0,8.0,1380.0,Diésel,9,Cordoba,14004,Córdoba
 8430,Renault,Clio,10990.0,90.0,Prof.,Coche pequeño,Ocasión,5,España,12,83000.0,2017,Manual,1498.0,6.5,Rojo,Rojo,Tracción delantera,5.0,7.0,4.0,1549.0,Gasolina,8,Bilbao,48960,Bizkaia
@@ -8524,7 +8524,7 @@
 8542,Renault,Clio,10013.0,90.0,Prof.,Coche pequeño,Ocasión,5,España,12,51668.0,2019,Manual,2696.0,9.9,Blanco,Blanco,Tracción a las cuatro ruedas,5.0,5.0,5.0,1948.0,Gasolina,5,Cordoba,14014,Córdoba
 8543,Renault,Clio,135001.0,91.0,Prof.,Coche pequeño,Ocasión,5,España,12,54849.0,2022,Manual,1497.0,5.5,Gris,Gris,Tracción delantera,5.0,6.0,4.0,1405.0,Gasolina,6,Pontevedra,36004,Pontevedra
 8544,Renault,Captur,16590.0,90.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,85582.0,2019,Automático,1597.0,4.3,Azul,Azul,Tracción delantera,5.0,6.0,4.0,1355.0,Diésel,6,Burgos,9001,Burgos
-8545,Renault,Megane,15500.0,116.0,-,Coche pequeño,Ocasión,5,España,12,60000.0,2019,Manual,1968.0,5.5,Blanco,Blanco,Tracción a las cuatro ruedas,5.0,7.0,4.0,1770.0,Diésel,1,Molins de rei,8750,Barcelona
+8545,Renault,Megane,15500.0,116.0,Prof.,Coche pequeño,Ocasión,5,España,12,60000.0,2019,Manual,1968.0,5.5,Blanco,Blanco,Tracción a las cuatro ruedas,5.0,7.0,4.0,1770.0,Diésel,1,Molins de rei,8750,Barcelona
 8546,Renault,Clio,10013.0,90.0,Prof.,Coche pequeño,Ocasión,5,España,12,51668.0,2019,Manual,1395.0,4.9,Blanco,Blanco,Tracción delantera,5.0,7.0,4.0,1269.0,Gasolina,5,Sevilla,41001,Sevilla
 8547,Renault,Clio,11299.0,90.0,Prof.,Coche pequeño,Ocasión,5,España,12,36809.0,2016,Manual,1497.0,5.5,Rojo,Rojo,Tracción delantera,5.0,6.0,4.0,1435.0,Gasolina,9,Rincón de la victoria,29730,Málaga
 8548,Renault,Scenic,16273.0,131.0,Prof.,Monovolumen,Ocasión,5,España,12,103046.0,2016,Manual,1950.0,5.2,Amarillo,Amarillo,Tracción a las cuatro ruedas,5.0,9.0,4.0,1835.0,Diésel,12,Ciudad real,13005,Ciudad Real
@@ -8550,7 +8550,7 @@
 8568,Renault,Clio,11918.0,90.0,Prof.,Coche pequeño,Ocasión,5,España,12,26156.0,2018,Manual,1497.0,6.9,Blanco,Blanco,Tracción delantera,5.0,6.0,4.0,1330.0,Gasolina,7,Rincón de la victoria,29730,Málaga
 8569,Renault,Grand Scenic,16585.0,131.0,Prof.,Monovolumen,Ocasión,5,España,12,100821.0,2018,Manual,1991.0,6.8,Beige,Beige,Tracción a las cuatro ruedas,5.0,7.0,4.0,1490.0,Diésel,1,Cordoba,14014,Córdoba
 8570,Renault,Megane,21700.0,140.0,Prof.,Coche pequeño,Ocasión,5,España,12,18214.0,2022,Manual,3982.0,6.1,Blanco,Blanco,Tracción a las cuatro ruedas,7.0,9.0,8.0,2785.0,Gasolina,7,Mijas - algeciras,29680,Málaga
-8571,Renault,ZOE,18050.0,109.0,-,Coche pequeño,Ocasión,5,España,24,19000.0,2020,Automático,2191.0,5.5,Blanco,Blanco,Tracción a las cuatro ruedas,5.0,6.0,4.0,1540.0,Eléctrico,8,Molins de rei,8750,Barcelona
+8571,Renault,ZOE,18050.0,109.0,Prof.,Coche pequeño,Ocasión,5,España,24,19000.0,2020,Automático,2191.0,5.5,Blanco,Blanco,Tracción a las cuatro ruedas,5.0,6.0,4.0,1540.0,Eléctrico,8,Molins de rei,8750,Barcelona
 8572,Renault,Kadjar,25700.0,116.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,36,14277.0,2021,Automático,4691.0,16.6,Blanco,Blanco,Tracción trasera,4.0,6.0,8.0,1955.0,Diésel,12,Orihuela,3300,Alicante/Alacant
 8573,Renault,Scenic,2990.0,131.0,Prof.,Monovolumen,Ocasión,5,España,12,179000.0,2007,Manual,1498.0,5.6,Negro,Negro,Tracción delantera,5.0,7.0,4.0,1568.0,Diésel,1,Cambrils,43850,Tarragona
 8574,Renault,Espace,17490.0,131.0,Prof.,Monovolumen,Ocasión,5,España,12,91447.0,2018,Manual,1598.0,5.2,Gris,Gris,Tracción delantera,5.0,5.0,4.0,1265.0,Diésel,8,Alcorcón,28923,Madrid
@@ -12817,7 +12817,7 @@
 12839,Land Rover,Range Rover Sport,39995.0,306.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,99500.0,2017,Automático,1560.0,4.7,Gris,CORRYS GREY,Tracción delantera,5.0,6.0,4.0,1350.0,Diésel,3,Sabadell,8207,Barcelona
 12840,Land Rover,Range Rover Evoque,41990.0,300.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,57000.0,2019,Automático,1499.0,4.3,Rojo,Rojo,Tracción delantera,5.0,6.0,4.0,1473.0,Gasolina,6,Parla,28982,Madrid
 12841,Land Rover,Range Rover Evoque,17500.0,150.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,150000.0,2016,Manual,1598.0,3.6,Blanco,Blanco,Tracción delantera,5.0,6.0,4.0,1273.0,Diésel,11,Deltebre,43580,Tarragona
-12842,Land Rover,Range Rover,6800.0,136.0,-,SUV/4x4/Pickup,Ocasión,5,España,6,290000.0,1997,Manual,1000.0,4.6,Verde,Verde,Tracción delantera,5.0,6.0,3.0,1191.0,Diésel,2,Torredelcampo,23640,Jaén
+12842,Land Rover,Range Rover,6800.0,136.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,12,290000.0,1997,Manual,1000.0,4.6,Verde,Verde,Tracción delantera,5.0,6.0,3.0,1191.0,Diésel,2,Torredelcampo,23640,Jaén
 12843,Land Rover,Range Rover Evoque,20490.0,179.0,Prof.,SUV/4x4/Pickup,Ocasión,3,España,12,121500.0,2018,Automático,1499.0,4.3,Rojo,Rojo,Tracción delantera,5.0,6.0,4.0,1165.0,Diésel,2,28100,28100,Madrid
 12844,Land Rover,Defender,48999.0,122.0,Prof.,SUV/4x4/Pickup,Ocasión,3,España,12,22000.0,2008,Manual,999.0,5.1,Gris,Gris,Tracción delantera,5.0,6.0,3.0,1313.0,Diésel,4,Zaragoza,50197,Zaragoza
 12845,Land Rover,Discovery Sport,49500.0,204.0,Prof.,SUV/4x4/Pickup,Ocasión,5,España,24,17094.0,2022,Automático,1500.0,5.1,Gris,Gris,Tracción delantera,5.0,6.0,3.0,1339.0,Diésel,7,Malaga,29004,Málaga

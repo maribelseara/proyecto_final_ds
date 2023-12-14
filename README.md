@@ -10,6 +10,7 @@ El dataset principal es el resultado de un scrapeado de unos 15000 registros rea
 
 Para poder realizar análisis comparativo se han utilizado otros dos datasets obtenidos de Kaggle ambos provenientes de scrapeos de la web Autoscout24:
 -Dataset con más de 100.000 registros de 2018 en España. Disponible en https://www.kaggle.com/datasets/harturo123/online-adds-of-used-cars/
+
 -Dataset con más de 250.000 registros de 2023 en Alemania. Disponible en https://www.kaggle.com/datasets/wspirat/germany-used-cars-dataset-2023
 
 Para la asignación de las provincias se usó el dataset postalcat.csv disponible en https://postal.cat/
