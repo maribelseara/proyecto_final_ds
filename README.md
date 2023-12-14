@@ -6,7 +6,7 @@ El mercado de vehículos de segunda mano siempre ha estado activo en España per
 
 ## Los datos
 
-El dataset principal es el resultado de un scrapeado de unos 15000 registros realizado por mí en la web Autoscout24. Este proceso requirió varias semanas ya que cada búsqueda solo devolvía un máximo de 400 resultados y algunos de ellos no se incorporaban por haberse obtenido en búsquedas anteriores. Lo podéis encontrar en 'data\raw\vehiculos_usados.csv'
+El dataset principal es el resultado de un scrapeado de unos 15000 registros realizado por mí en la web Autoscout24 la segunda mitad de noviembre de 2023. Este proceso requirió varias semanas ya que cada búsqueda solo devolvía un máximo de 400 resultados y algunos de ellos no se incorporaban por haberse obtenido en búsquedas anteriores. Podéis encontrar el dataset en 'data\raw\vehiculos_usados.csv'
 
 Para poder realizar análisis comparativo se han utilizado otros dos datasets obtenidos de Kaggle ambos provenientes de scrapeos de la web Autoscout24:
 -Dataset con más de 100.000 registros de 2018 en España. Disponible en https://www.kaggle.com/datasets/harturo123/online-adds-of-used-cars/
