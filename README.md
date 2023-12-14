@@ -40,4 +40,4 @@ Nota: El archivo 'model.joblib' no está subido a Github porque supera los lími
 ## Librerías de python necesarias
 
 Se pueden encontrar en el archivo 'requeriments.txt'
-Para instalarlas se puede crear un nuevo entorno con 'conda create nombre_entorno', activarlo con 'conda activate nombre_entorno' e instalar las librerías con 'python -m pip install -r requirements.txt'
+Para instalarlas se puede crear un nuevo entorno con 'conda create --name nombre_entorno', activarlo con 'conda activate nombre_entorno' e instalar las librerías con 'python -m pip install -r requirements.txt'
