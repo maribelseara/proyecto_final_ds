@@ -33,7 +33,7 @@ A continuación usando la librería joblib se guarda la pipeline con mejor resul
 
 ## La web
 
-Gracias a la librería streamlit se ha creado un formulario web donde poder insertar los datos para generar predicciones. Esto se hace importando los datos y la pipeline con el mejor modelo y creando el formulario con un botón que genera la predicción. Este sistema funciona en local, ejecutando el comando 'streamlit run web.py' desde la terminal en la cual uséis python (en mi caso Anaconda Prompt) y estando en la carpeta del proyecto.
+Gracias a la librería streamlit se ha creado un formulario web donde poder insertar los datos para generar predicciones. Esto se hace importando los datos y la pipeline con el mejor modelo y creando el formulario con un botón que genera la predicción. Este sistema funciona en local, ejecutando el comando 'streamlit run web.py' desde la terminal en la cual uséis python (en mi caso Anaconda Prompt), estando en la carpeta del proyecto y con el entorno en el que tengáis instalado streamlit activado.
 
 Nota: El archivo 'model.joblib' no está subido a Github porque supera los límites de almacenamiento. Se puede crear ejecutando el archivo 'ML.ipynb' (lo cual tarda unos 90 minutos dependiendo del equipo) o descargar del siguiente enlace e incorporarlo al proyecto https://drive.google.com/file/d/1iJqrspU6wCiwISxegolKoqiVqTcTi8la/view?usp=sharing
 
